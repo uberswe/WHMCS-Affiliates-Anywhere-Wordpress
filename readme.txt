@@ -13,7 +13,7 @@ This plugin adds the ability for ?aff to be used in links on any page of your wo
 
 This plugin adds the ability for ?aff to be used in links on any page of your wordpress website in order to register and track affiliate clicks/sales with WHMCS on remote websites.
 
-You will need the Anveto Affiliate Anywhere Plus addon for WHMCS in order to use this plugin. Purchase the addon here http://www.whmcs.com/appstore/3978/Anveto-Affiliate-Anywhere-Plus.html
+You will need the Anveto Affiliate Anywhere Plus addon for WHMCS in order to use this plugin. Find the addon here https://github.com/markustenghamn/WHMCS-Affiliates-Anywhere
 
 
 == Installation ==
